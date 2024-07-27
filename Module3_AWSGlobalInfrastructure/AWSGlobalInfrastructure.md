@@ -73,6 +73,8 @@ Europe / Middle East / Africa (12)
 An Availability Zone Consists in one or more datacenters. You have to choice the selected AZ to store your application. The AZs are projected to isolate fails. AWS recomends data replication between AZs to resilience.
 
 ### Section 2 - AWS Services Categories and Services
+---
+
 
 AWS offers a broad set of a global cloud base products that can be used buinding blocks for common cloud architectures.
 
