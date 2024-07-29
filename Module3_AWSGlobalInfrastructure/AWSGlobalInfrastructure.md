@@ -82,7 +82,7 @@ The AWS global infrastructure can be broken down in three elements: `Regions`, `
 
 The most used AWS Services:
 
-1. `AWS Storage Services: `
+1. `AWS Storage Services: ` 
    
    1. **S3 - AWS Simple Storage Service**: Object storage service that offers scalability data avalability, security and performance.
    2. **EBS - AWS Elastic Block Store**: High performance block storage designed for use with EC2 instances for workloads with high throughput 
