@@ -120,9 +120,26 @@ The most used AWS Services:
  
  5. `Security, Identity and Compliance: ` 
 
-    1. **IAM - Identity Access Management**: 
-    2. **Organizations**: 
-    3. **Cognito**: 
-    4. **Artifact**: 
-    5. **Key management Service**: 
-    6. **Shield**: 
+    1. **IAM - Identity Access Management**: Enables you to manage access to aws services and resources securilly
+    2. **Organizations**: Allows you to restrict wich services and actions are allowed in your accounts
+    3. **Cognito**: Add user authentiication and access control to your web and mobile apps.
+    4. **Artifact**: Provides on demand access to the aws security and compliance supports as well, the selected on line agreements.
+    5. **KMS - Key Management Service**: Enables you to manage and create manage encrypting keys. You can use it to control the use of encription across the wide range of your AWS services in your applications
+    6. **Shield**: Managed distribuided deny of service protection service that safe and guards applications running on AWS.
+ 
+ 6. `Costs and Management Services: `
+   
+    1. **Costs and Usage Report**: Wich contains the most comprehensive set of cost and usage of data available, includiting additional managed data about services, pricing and reservations.
+    2. **Budgets**: Set custom budgets that alert you when your AWS cost or usage exceeds or the forecast exceed your budget amount.
+    3. **Cost Explorer**: Enables you do visualize and understand and manage AWS cost usage over time.
+ 
+ 7. `Management and Governance Services: `
+
+    1. **Management Console**: Service that is web's user interface for accessing your AWS account.
+    2. **Config**: Service that helps you track resources inventory and changes. 
+    3. **CloudWatch**: Allows you to monitor resources and applications.
+    4. **Auto Scaling**: Provides features that allow you to scale multiple resources to meet demand.
+    5. **CLI - Command Line Interface**: Provides a unified tool to manage AWS services.
+    6. **Trusted Advisor**: On-line tool wich helps you optimize performance and security using AWS best practicies.
+    7. **Well Architected Tool**: Wich provides help in reviwing and improving your workloads.
+    8. **Cloud Trail**: Tracks user activity and API usage accross your AWS accounts.
