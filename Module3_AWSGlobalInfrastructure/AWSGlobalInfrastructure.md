@@ -14,7 +14,7 @@ AWS provides a more extensive global footprint than any other cloud provider, an
 
 The resources of one region are isolated of another region. They are not automatically replicated between regions. If you need to replicate resources (data ou applications) between regions it's your responsability to do it.
 
-You need to check the legal requirements of your business and country if exists any limitation about resources outside or inside of someone region.
+You need to check the legal requirements and data governance of your business and country if exists any limitation about resources outside or inside of someone region.
 
 The global presence of AWS represnted by it's regions has a advantage to deliver low latence conenctions for yours customers.
 
