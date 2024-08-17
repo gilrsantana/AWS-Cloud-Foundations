@@ -27,4 +27,6 @@ IAM allows you to define some items that require definition.
 
 3. **Policies:** is document wich define access to one or more services. They are created independently of users and groups. They can them be atache in order to enable the access controls that they define.
 
-4. **Roll:** is mechanism of granting temporally access to AWS services, for example, an user can assume a roll to access a service that is not normally available. 
+4. **Roll:** is mechanism of granting temporally access to AWS services, for example, an user can assume a roll to access a service that is not normally available. It's look like a sudo user at Linux system.
+
+Authentication is a basic security computer concept. User or system must proove that I am. Whenn you define an Identity Access Management User you select what type of access the user is permitted to use.
